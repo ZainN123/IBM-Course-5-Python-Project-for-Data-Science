@@ -4,3 +4,6 @@ In this module, you will demonstrate your skills in Python - the language of cho
 
 Order of Labs
 
+1) Final_Assignment_Library
+2) Final Assignment_Webscraping
+3) Python Project for Data Science (Final Assignment)
